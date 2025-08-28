@@ -41,7 +41,7 @@
 			class="color-transition btn text-xl btn-ghost hover:text-primary">suki</a
 		>
 	</div>
-	<div class="navbar-center hidden lg:flex">
+	<div class="navbar-center hidden sm:flex">
 		<ul class="menu menu-horizontal px-1">
 			<li>
 				<a class="color-transition hover:text-primary" href="/about">about</a>
