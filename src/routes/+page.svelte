@@ -61,7 +61,7 @@
 		<div class="mt-4 grid grid-cols-1 gap-3 sm:grid-cols-3">
 			<!-- Twitch -->
 			<a
-				href="https://twitch.tv"
+				href="https://www.twitch.tv/suki"
 				class="card card-side w-full motion-preset-slide-right bg-black shadow-sm hover:bg-base-300"
 			>
 				<figure
@@ -76,8 +76,9 @@
 			</a>
 
 			<!-- Youtube -->
+
 			<a
-				href="https://youtube.com"
+				href="https://www.youtube.com/@sukiivt"
 				class="card card-side w-full motion-preset-slide-right bg-black shadow-sm motion-delay-200 hover:bg-base-300"
 			>
 				<figure
@@ -92,8 +93,9 @@
 			</a>
 
 			<!-- ASMR -->
+
 			<a
-				href="https://youtube.com"
+				href="https://www.youtube.com/@ASMRRSuki"
 				class="card card-side w-full motion-preset-slide-right bg-black shadow-sm motion-delay-400 hover:bg-base-300"
 			>
 				<figure
@@ -106,9 +108,11 @@
 					<div class="card-actions justify-end"></div>
 				</div>
 			</a>
+
 			<!-- Discord -->
+
 			<a
-				href="https://ko-fi.com"
+				href="https://discord.gg/ssuki"
 				class="card card-side w-full motion-preset-slide-right bg-black shadow-sm motion-delay-600 hover:bg-base-300"
 			>
 				<figure
@@ -123,8 +127,9 @@
 			</a>
 
 			<!-- X -->
+
 			<a
-				href="https://x.com"
+				href="https://x.com/SukiiVT"
 				class="card card-side w-full motion-preset-slide-right bg-black shadow-sm motion-delay-800 hover:bg-base-300"
 			>
 				<figure
@@ -139,8 +144,9 @@
 			</a>
 
 			<!-- Tiktok -->
+
 			<a
-				href="https://tiktok.com"
+				href="https://www.tiktok.com/@sukkivt"
 				class="card card-side w-full motion-preset-slide-right bg-black shadow-sm motion-delay-1000 hover:bg-base-300"
 			>
 				<figure
@@ -155,8 +161,9 @@
 			</a>
 
 			<!-- Kofi -->
+
 			<a
-				href="https://ko-fi.com"
+				href="https://ko-fi.com/sssuukiii"
 				class="card card-side w-full motion-preset-slide-right bg-black shadow-sm motion-delay-1200 hover:bg-base-300"
 			>
 				<figure
@@ -171,8 +178,9 @@
 			</a>
 
 			<!-- Gamersupps -->
+
 			<a
-				href="https://ko-fi.com"
+				href="https://gamersupps.gg/?ref=SUKI"
 				class="card card-side w-full motion-preset-slide-right bg-black shadow-sm motion-delay-1400 hover:bg-base-300"
 			>
 				<figure
@@ -187,8 +195,9 @@
 			</a>
 
 			<!-- Throne -->
+
 			<a
-				href="https://ko-fi.com"
+				href="https://throne.com/sukii"
 				class="card card-side w-full motion-preset-slide-right bg-black shadow-sm motion-delay-1600 hover:bg-base-300"
 			>
 				<figure
