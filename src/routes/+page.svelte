@@ -1,4 +1,5 @@
 <script>
+	import Banner from '$lib/assets/banner.png'
 	import Pfp from '$lib/assets/pfp.png'
 	import Twitch from '$lib/components/Twitch.svelte'
 	import Youtube from '$lib/components/Youtube.svelte'
@@ -22,7 +23,7 @@
 		style="
       width: 100vw;
       height: 45rem;
-      background-image: url('/src/lib/assets/banner.png');
+      background-image: url('{Banner}');
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center top;
