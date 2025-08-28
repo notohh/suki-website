@@ -58,11 +58,15 @@
 		>
 			suki
 		</div>
+		<div class="mx-auto w-80 justify-center text-center sm:w-180">
+			<p>Streaming daily on Twitch</p>
+			<p>Your new favorite Nekomancer</p>
+		</div>
 		<div class="mt-4 grid grid-cols-1 gap-3 sm:grid-cols-3">
 			<!-- Twitch -->
 			<a
 				href="https://www.twitch.tv/suki"
-				class="card card-side w-full motion-preset-slide-right bg-black shadow-sm hover:bg-base-300"
+				class="card card-side w-full motion-preset-slide-right bg-black shadow-sm transition-colors hover:bg-twitch-purple hover:text-white"
 			>
 				<figure
 					class="flex flex-shrink-0 items-center justify-center rounded-md bg-twitch-purple p-2"
@@ -79,7 +83,7 @@
 
 			<a
 				href="https://www.youtube.com/@sukiivt"
-				class="card card-side w-full motion-preset-slide-right bg-black shadow-sm motion-delay-200 hover:bg-base-300"
+				class="card card-side w-full motion-preset-slide-right bg-black shadow-sm transition-colors motion-delay-200 hover:bg-youtube-red hover:text-white"
 			>
 				<figure
 					class="flex flex-shrink-0 items-center justify-center rounded-md bg-youtube-red p-2"
@@ -96,7 +100,7 @@
 
 			<a
 				href="https://www.youtube.com/@ASMRRSuki"
-				class="card card-side w-full motion-preset-slide-right bg-black shadow-sm motion-delay-400 hover:bg-base-300"
+				class="card card-side w-full motion-preset-slide-right bg-black shadow-sm transition-colors motion-delay-400 hover:bg-pink-400 hover:text-white"
 			>
 				<figure
 					class="flex flex-shrink-0 items-center justify-center rounded-md bg-pink-400 p-2"
@@ -113,7 +117,7 @@
 
 			<a
 				href="https://discord.gg/ssuki"
-				class="card card-side w-full motion-preset-slide-right bg-black shadow-sm motion-delay-600 hover:bg-base-300"
+				class="card card-side w-full motion-preset-slide-right bg-black shadow-sm transition-colors motion-delay-600 hover:bg-discord-purple hover:text-white"
 			>
 				<figure
 					class="flex flex-shrink-0 items-center justify-center rounded-md bg-discord-purple p-2"
@@ -130,7 +134,7 @@
 
 			<a
 				href="https://x.com/SukiiVT"
-				class="card card-side w-full motion-preset-slide-right bg-black shadow-sm motion-delay-800 hover:bg-base-300"
+				class="hover:bg-dark-grey card card-side w-full motion-preset-slide-right bg-black shadow-sm transition-colors motion-delay-800 hover:text-white"
 			>
 				<figure
 					class="flex flex-shrink-0 items-center justify-center rounded-md bg-black p-2"
@@ -147,7 +151,7 @@
 
 			<a
 				href="https://www.tiktok.com/@sukkivt"
-				class="card card-side w-full motion-preset-slide-right bg-black shadow-sm motion-delay-1000 hover:bg-base-300"
+				class="hover:bg-dark-grey card card-side w-full motion-preset-slide-right bg-black shadow-sm transition-colors motion-delay-1000 hover:text-white"
 			>
 				<figure
 					class="flex flex-shrink-0 items-center justify-center rounded-md bg-black p-2"
@@ -164,10 +168,10 @@
 
 			<a
 				href="https://ko-fi.com/sssuukiii"
-				class="card card-side w-full motion-preset-slide-right bg-black shadow-sm motion-delay-1200 hover:bg-base-300"
+				class="hover:bg-kofi-blue card card-side w-full motion-preset-slide-right bg-black shadow-sm transition-colors motion-delay-1200 hover:text-white"
 			>
 				<figure
-					class="flex flex-shrink-0 items-center justify-center rounded-md bg-blue-500 p-2"
+					class="bg-kofi-blue flex flex-shrink-0 items-center justify-center rounded-md p-2"
 				>
 					<Kofi className="w-8 h-8 fill-white" />
 				</figure>
@@ -181,7 +185,7 @@
 
 			<a
 				href="https://gamersupps.gg/?ref=SUKI"
-				class="card card-side w-full motion-preset-slide-right bg-black shadow-sm motion-delay-1400 hover:bg-base-300"
+				class="card card-side w-full motion-preset-slide-right bg-black shadow-sm transition-colors motion-delay-1400 hover:bg-gsupps-dark hover:text-white"
 			>
 				<figure
 					class="flex flex-shrink-0 items-center justify-center rounded-md bg-gsupps-dark p-2"
@@ -198,7 +202,7 @@
 
 			<a
 				href="https://throne.com/sukii"
-				class="card card-side w-full motion-preset-slide-right bg-black shadow-sm motion-delay-1600 hover:bg-base-300"
+				class="card card-side w-full motion-preset-slide-right bg-black shadow-sm transition-colors motion-delay-1600 hover:bg-throne-blue hover:text-white"
 			>
 				<figure
 					class="flex flex-shrink-0 items-center justify-center rounded-md bg-throne-blue p-2"
