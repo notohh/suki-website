@@ -5,10 +5,10 @@
 	import Kofi from '$lib/components/Kofi.svelte'
 	import Tiktok from '$lib/components/Tiktok.svelte'
 	import X from '$lib/components/X.svelte'
-	import Headphones from '$lib/components/Headphones.svelte'
 	import Throne from '$lib/components/Throne.svelte'
 	import Discord from '$lib/components/Discord.svelte'
 	import GSupps from '$lib/components/GSupps.svelte'
+	import Bed from '$lib/components/Bed.svelte'
 </script>
 
 <svelte:head>
@@ -98,7 +98,7 @@
 				<figure
 					class="flex flex-shrink-0 items-center justify-center rounded-md bg-pink-400 p-2"
 				>
-					<Headphones className="w-8 h-8" />
+					<Bed className="w-8 h-8" />
 				</figure>
 				<div class="card-body min-w-0">
 					<h2 class="pointer-events-none card-title">ASMR</h2>
