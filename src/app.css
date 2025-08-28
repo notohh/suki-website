@@ -44,5 +44,11 @@
 	--color-throne-blue: oklch(0.4608 0.2499 274.37);
 	--color-gsupps-dark: oklch(0.1761 0.0301 244.41);
 	--color-youtube-red: oklch(0.6307 0.254872 23.6145);
+	--color-kofi-blue: oklch(0.7162 0.1266 259.01);
+	--color-dark-grey: oklch(0.2177 0 277);
 	--font-display: 'Inter', 'sans-serif';
+}
+
+.color-transition {
+	transition: color 0.1s ease-in-out;
 }
